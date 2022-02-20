@@ -1,0 +1,23 @@
+Column Details for .bl file (alignParse_v8_mouse.py applied to _zeroMM.map, _oneMM.map, _twoMM.map)
+
+1) id_x where x is the no of count of the particular gene sequence in the file
+
+2) which chromosome the gene sequence is found at
+
+3) nothing
+
+4) length of the sequence
+
+5)-7) not useful
+
+8) length of the sequence
+
+9) first coordinate of the sequence
+
+10) last coordinate of the sequence
+
+*if 9)<10), it means the sense is ‘-‘
+
+11) label whether the sequence is rRNA 
+
+12) label whether the sequence is other type of RNA(except rRNA)

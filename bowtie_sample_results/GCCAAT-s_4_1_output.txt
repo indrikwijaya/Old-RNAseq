@@ -1,0 +1,90 @@
+‘Quality Check Results’
+Number of lines read:  158730952
+Number of packages:  39682738
+Number of packages that would passQual:  36026481
+
+Number of packages in outfile:  35656363
+Number of packages in triagefile:  370118
+
+‘Bowtie (n=0)’
+# reads processed: 35656363
+# reads with at least one reported alignment: 2222956 (6.23%)
+# reads that failed to align: 28055702 (78.68%)
+# reads with alignments suppressed due to -m: 5377705 (15.08%)
+Reported 2222956 alignments to 1 output stream(s)
+
+‘Bowtie (n=1)’
+# reads processed: 33433407
+# reads with at least one reported alignment: 1248400 (3.73%)
+# reads that failed to align: 23948435 (71.63%)
+# reads with alignments suppressed due to -m: 8236572 (24.64%)
+Reported 1248400 alignments to 1 output stream(s)
+
+‘Bowtie (n=2)’
+# reads processed: 32185007
+# reads with at least one reported alignment: 607772 (1.89%)
+# reads that failed to align: 22757270 (70.71%)
+# reads with alignments suppressed due to -m: 8819965 (27.40%)
+Reported 607772 alignments to 1 output stream(s)
+
+‘Converting to .bl file’
+Number of lines in part 0:  2222956
+Number of lines in part 1:  1248400
+Number of lines in part 2:  607772
+Number of lines in total:  4079128
+Length of collatedKeyToReadNum before output length files:  1214452
+Number of lengths in lengthToKeys:  18
+Number of linesWritten to file 24:  244
+====== Last line written ======
+==============================================
+Number of linesWritten to file 25:  445
+====== Last line written ======
+==============================================
+Number of linesWritten to file 26:  876
+====== Last line written ======
+==============================================
+Number of linesWritten to file 27:  5100
+====== Last line written ======
+==============================================
+Number of linesWritten to file 20:  69
+====== Last line written ======
+==============================================
+Number of linesWritten to file 21:  86
+====== Last line written ======
+==============================================
+Number of linesWritten to file 22:  109
+====== Last line written ======
+==============================================
+Number of linesWritten to file 23:  140
+====== Last line written ======
+==============================================
+Number of linesWritten to file 33:  207243
+====== Last line written ======
+==============================================
+Number of linesWritten to file 32:  170199
+====== Last line written ======
+==============================================
+Number of linesWritten to file 31:  136751
+====== Last line written ======
+==============================================
+Number of linesWritten to file 30:  121976
+====== Last line written ======
+==============================================
+Number of linesWritten to file 28:  48764
+====== Last line written ======
+==============================================
+Number of linesWritten to file 36:  206567
+====== Last line written ======
+==============================================
+Number of linesWritten to file 29:  107058
+====== Last line written ======
+==============================================
+Number of linesWritten to file 19:  56
+====== Last line written ======
+==============================================
+Number of linesWritten to file 18:  56
+====== Last line written ======
+==============================================
+Number of linesWritten to file 34:  208713
+====== Last line written ======
+==============================================
