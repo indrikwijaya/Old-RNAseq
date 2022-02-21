@@ -4,4 +4,4 @@ This repo contain scripts to run end-to-end RNAseq pipeline (from fastq to RPKM 
 
 Even though the scripts are outdated, they still yield similar results to outputs run on more recent RNAseq pipeline. A bash script utilizing more recent tools such as Bowtie2 and featureCount give similar output to the results generated from this old pipeline.
 
-<center><img src="Flowchart.png"/></center>
+<center><img src="Flowchart.jpg"/></center>
